@@ -1,0 +1,9 @@
+Selenium
+Appium
+Cypress
+Mocha
+Jest
+SoapUI
+Jmeter
+Pytest
+Katalon
